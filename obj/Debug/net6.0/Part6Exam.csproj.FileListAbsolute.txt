@@ -1,0 +1,15 @@
+C:\Users\bobby\documents\C#\part6exam\bin\Debug\net6.0\Part6Exam.exe
+C:\Users\bobby\documents\C#\part6exam\bin\Debug\net6.0\Part6Exam.deps.json
+C:\Users\bobby\documents\C#\part6exam\bin\Debug\net6.0\Part6Exam.runtimeconfig.json
+C:\Users\bobby\documents\C#\part6exam\bin\Debug\net6.0\Part6Exam.dll
+C:\Users\bobby\documents\C#\part6exam\bin\Debug\net6.0\Part6Exam.pdb
+C:\Users\bobby\documents\C#\part6exam\obj\Debug\net6.0\Part6Exam.csproj.AssemblyReference.cache
+C:\Users\bobby\documents\C#\part6exam\obj\Debug\net6.0\Part6Exam.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bobby\documents\C#\part6exam\obj\Debug\net6.0\Part6Exam.AssemblyInfoInputs.cache
+C:\Users\bobby\documents\C#\part6exam\obj\Debug\net6.0\Part6Exam.AssemblyInfo.cs
+C:\Users\bobby\documents\C#\part6exam\obj\Debug\net6.0\Part6Exam.csproj.CoreCompileInputs.cache
+C:\Users\bobby\documents\C#\part6exam\obj\Debug\net6.0\Part6Exam.dll
+C:\Users\bobby\documents\C#\part6exam\obj\Debug\net6.0\refint\Part6Exam.dll
+C:\Users\bobby\documents\C#\part6exam\obj\Debug\net6.0\Part6Exam.pdb
+C:\Users\bobby\documents\C#\part6exam\obj\Debug\net6.0\Part6Exam.genruntimeconfig.cache
+C:\Users\bobby\documents\C#\part6exam\obj\Debug\net6.0\ref\Part6Exam.dll
